@@ -6,7 +6,7 @@
 ##### Production
 `https://litefarm-api-production.herokuapp.com/stats/farm`
 
-### List of queriy parameters 
+### List of query parameters 
 All parameters are in boolean except farm_id and token   
 Order does not matter
   
